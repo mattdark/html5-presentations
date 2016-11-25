@@ -119,6 +119,6 @@ This is a paragraph with some random text
 ---
 
 ## Learn more
-_[reveal.js](lab.hakim.se/reveal-js)_
+_[reveal.js](http://lab.hakim.se/reveal-js)_
 
 ___
