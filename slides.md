@@ -1,7 +1,5 @@
 ## HTML5 slides with reveal.js
 
-[Mario Garcia](http://mariog.xyz) · [@mariogmd](https://twitter.com/mariogmd)
-
 ---
 
 ### What is reveal.js
@@ -124,6 +122,3 @@ This is a paragraph with some random text
 _[reveal.js](lab.hakim.se/reveal-js)_
 
 ___
-
-[@mariogmd](https://twitter.com/mariogmd)<br>
-mattdark@mozilla-mexico.org
